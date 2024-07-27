@@ -1,4 +1,9 @@
 # MarchMadness2024
+Developed two models to forecast outcomes of Match Madness Basketball Tournament  
+Wrangled data from multiple sources to ensure model was trained on the best available information  
+Summarized results in actionable and mobile format  
+
+#Summary
 A couple of different models to try and predict the results of the March Madness College basketball tournament for 2024
 
 There are two different models version of the model included, both are based off of the same data (mostly from Kenpom.com, but also some of the data was provided by Kaggle).
