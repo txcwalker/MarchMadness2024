@@ -25,5 +25,5 @@ Additional for this model not all of the data files were included since a few of
 # Kaggle 
 This was done for the competition hosted on Kaggle every year. I did not submit my code because I was unable to find the same stats I used for the Mens as the Womens (Predictions for both tournaments were needed in order for a submission to be considered valid). In fact I found it difficult to find any statistics that were easily downloadable for the Womens game
 
-#Borrowed Code
+# Borrowed Code
 One note is a portion of the simulation code was taken (with permission) from a Kaggle user. I modified it a bit to work with data. 
